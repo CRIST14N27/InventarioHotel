@@ -45,7 +45,6 @@
                 <materialDesign:PackIcon Kind="User" Width="34" Height="46" Foreground="Purple" Margin="0,0,10,0"/>
                 <Label Content="Mantto" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Bahnschrift Condensed" Foreground="White" FontSize="24"/>
             </StackPanel>
-
             <StackPanel Orientation="Horizontal" Margin="0,20,0,10">
                 <materialDesign:PackIcon Kind="Lock" Width="31" Height="44" Foreground="Purple" Margin="0,0,10,0"/>
                 <PasswordBox x:Name="txtPassword" materialDesign:HintAssist.Hint="Introducir Contraseña" 

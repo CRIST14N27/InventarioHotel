@@ -20,9 +20,5 @@ namespace Inventario_Hotel.Entities
         public string Correo { get; set; }
 
         public string contrasena { get; set; }
-
-
-
-
     }
 }

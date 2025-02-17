@@ -27,7 +27,6 @@ namespace Inventario_Hotel
         private const string predefinedPasswordSA = "1234";
         private const string predefinedPasswordAd = "M45ft";
 
-
         public MainWindow()
         {
             InitializeComponent();
